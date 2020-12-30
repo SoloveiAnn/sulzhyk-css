@@ -435,7 +435,7 @@ h1 {
     font-weight: 600;
     color: var(--test-text-color);
     padding: 20px 0 20px 0;
-    margin-bottom: 20px: ;
+    margin-bottom: 20px;
     display: flex;
     justify-content: flex-start;
 }
@@ -589,6 +589,14 @@ h1 {
     margin: auto;
     display: block;
     padding: 15px 0 15px 0;
+}
+
+#map {
+    width: 600px;
+    height: 600px;
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
 }
 
 form {
